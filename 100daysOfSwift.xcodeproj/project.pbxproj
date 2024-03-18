@@ -20,6 +20,7 @@
 		1A29B9292BA766BD00AF6775 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A29B92C2BA766BD00AF6775 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1A29B9332BA766E200AF6775 /* Day26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1A9371662BA8A468009B0655 /* Day 32.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 32.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				1A29B9292BA766BD00AF6775 /* Assets.xcassets */,
 				1A29B92B2BA766BD00AF6775 /* Preview Content */,
 				1A29B9332BA766E200AF6775 /* Day26.playground */,
+				1A9371662BA8A468009B0655 /* Day 32.playground */,
 			);
 			path = 100daysOfSwift;
 			sourceTree = "<group>";
