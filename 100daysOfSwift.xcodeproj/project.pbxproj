@@ -24,6 +24,7 @@
 		1A9371812BA8AC00009B0655 /* Day 33.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 33.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1A9371822BA8B6CD009B0655 /* Day 35.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 35.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1A93719D2BA8C3A9009B0655 /* Day 36.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 36.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1A9371BA2BA9081F009B0655 /* Day 39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 39.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 				1A9371812BA8AC00009B0655 /* Day 33.playground */,
 				1A9371822BA8B6CD009B0655 /* Day 35.playground */,
 				1A93719D2BA8C3A9009B0655 /* Day 36.playground */,
+				1A9371BA2BA9081F009B0655 /* Day 39.playground */,
 			);
 			path = 100daysOfSwift;
 			sourceTree = "<group>";
