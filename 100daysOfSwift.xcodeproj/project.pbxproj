@@ -27,6 +27,7 @@
 		1A9371BA2BA9081F009B0655 /* Day 39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 39.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1A9371E52BA9E863009B0655 /* Day 43.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 43.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1A9372002BA9EFDB009B0655 /* Day 44.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 44.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1A9372012BA9F7B9009B0655 /* Day 45.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 45.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +72,7 @@
 				1A9371BA2BA9081F009B0655 /* Day 39.playground */,
 				1A9371E52BA9E863009B0655 /* Day 43.playground */,
 				1A9372002BA9EFDB009B0655 /* Day 44.playground */,
+				1A9372012BA9F7B9009B0655 /* Day 45.playground */,
 			);
 			path = 100daysOfSwift;
 			sourceTree = "<group>";
